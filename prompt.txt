@@ -28,7 +28,7 @@ Pull my calendar for the next two weeks starting October 13 and tell me which da
 Check the Notion budget tracker and give me the current monthly expense total and the Ally savings balance. I want to know exactly where I stand before I commit to anything for the birthday dinner.
 
 --- TURN 3 ---
-Write an email to Keisha with an invitation to join me for a birthday dinner on October 30th at Kemuri Restaurant at 7:00 PM.
+Draft an email to Keisha with an invitation to join me for a birthday dinner on October 30th at Kemuri Restaurant at 7:00 PM.
 
 --- TURN 4 ---
 Add a tentative calendar entry for birthday dinner at Kemuri restaurant on October 30th between 7:00 PM and 9:30 PM and ensure there are no other events that collide with this event including custody transfer.
@@ -91,7 +91,7 @@ Update the custody block on my Calendar for October 16 to start on October 17 at
 Update the Notion family log to record this custody swap for October 16 to October 17 and note the OFW protocol reminder.
 
 --- TURN 24 ---
-Write an email to Yvette explaining that Derek's pickup will now take place on October 17 at 9:00 AM and hence she will not need to stay back on October 16.
+Draft an email to Yvette explaining that Derek's pickup will now take place on October 17 at 9:00 AM and hence she will not need to stay back on October 16.
 
 --- TURN 25 ---
 Check my Drive for Gavin's Pulaski Heights school enrollment form and verify that Marcus Robinson is listed as the secondary emergency contact.
@@ -127,7 +127,7 @@ Check the Trello board "Pine Bluff Thanksgiving" and list all the active cards o
 Add "Gavin's winter coat" and "Thanksgiving host gift for Yvette" to the Trello packing checklist card.
 
 --- TURN 36 ---
-Email to Yvette confirming that we will travel to Pine Bluff on November 25, arrival being expected around 6:00 PM.
+Draft an email to Yvette confirming that we will travel to Pine Bluff on November 25, arrival being expected around 6:00 PM.
 
 --- TURN 37 ---
 Create a calendar event for Thanksgiving Pine Bluff trip from November 25, 4:00 PM to November 29, 6:00 PM.
@@ -154,13 +154,15 @@ Add a recurring Calendar reminder on the 1st of every month for the next year la
 Log the confirmed rent amount of 980 dollars for the next lease term in the Notion budget workspace.
 
 --- TURN 45 ---
-Email to Marcus confirming our plans for the hike at Pinnacle Mountain on November 27 and inquire if we should meet at the trailhead by 9:00 AM.
+Draft an email to Marcus confirming our plans for the hike at Pinnacle Mountain on November 27 and inquire if we should meet at the trailhead by 9:00 AM.
 
 --- TURN 46 ---
-Email to Yvette confirming that I will make the sweet potato casserole for Thanksgiving dinner.
+Draft an email to Yvette confirming that I will make the sweet potato casserole for Thanksgiving dinner.
 
 --- TURN 47 ---
 Check my Calendar for the week of December 1 and tell me if there are any major overlaps that conflict with the final trial prep block.
 
 --- TURN 48 ---
 Verify that all email drafts for Marcus, Yvette, and Dr Tran are prepared, the calendar blocks for the Thanksgiving trip are correct, and all Notion updates for the budget and medical logs are completed.
+
+# --- END OF PROMPTS (48/48) ---
